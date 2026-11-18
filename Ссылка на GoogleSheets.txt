@@ -1,0 +1,2 @@
+Основная аналитика проведена в таблице, ссылка на таблицу приложена так же в конце .ipynb файла,  котором проведена очистка и подготовка данных
+https://docs.google.com/spreadsheets/d/1Z__5yrKNwT0ERRGeXKpzvt_uwgAmjGJv7yoh35R49-I/edit?usp=sharing
